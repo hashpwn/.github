@@ -1,4 +1,4 @@
-![image](https://forum.hashpwn.net/assets/uploads/files/1729307636803-hashpwn_logo.png)
+![image](https://github.com/user-attachments/assets/23e452b4-cf70-45d6-98d1-3cc894d2046f)
 
 Welcome to Hashpwn!
 We're a community of hash-cracking enthusiasts with expertise ranging from infosec to software development. We are your go-to resource for everything hash-cracking related.
